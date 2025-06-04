@@ -3,6 +3,11 @@
     padding: 0%;
     box-sizing: border-box;
 }
+body{
+    background-image: url('./css/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 
@@ -41,7 +46,7 @@ button{
 button:hover{
     
     background: rgb(139, 147, 154);
-    filter: drop-shadow(0 0 10px #fffdef);
+    
 
 }
 .project{
