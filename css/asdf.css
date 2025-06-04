@@ -1,10 +1,32 @@
+
+
+
+/* background:url('css\bijlibackground.png'); */
+
 body{
     margin-bottom: 20px;
+    /* background-image: url('back.png.png'); */
+    
+     /* filter: blur(1px); */
 }
- div{
+
+ /* .mainback{
+    margin: 0%;
+    padding: 0%;
+
+    background-image: url('back.png.png'); 
+    background-size: cover; 
+    filter: blur(10px);
+}
+     */
+    
+ .container{
   
    width: 1000px;
    margin: 10px auto;
+   /* background-image: url('back.png.png'); 
+   background-size: cover; */
+
   
 
  }
@@ -24,6 +46,6 @@ h2{
      
 }
 nav{
-    background-color: rgb(192, 188, 188);
+    background-color: rgb(142, 129, 129);
     text-align: center;
 }
