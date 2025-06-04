@@ -36,9 +36,10 @@ li{
 }
 button{
     margin: 20px;
+
 }
 button:hover{
-    display: block;
+    
     background: rgb(139, 147, 154);
     filter: drop-shadow(0 0 10px #fffdef);
 
