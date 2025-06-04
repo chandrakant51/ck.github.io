@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.navbar{
+    background-color: aqua;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+a{
+    text-decoration: none;
+}
+
+.nav-item{
+    /* text-decoration: none; */
+    margin: 10px 50px;
+    border: 2px solid red;
+
+}
+li{
+    display: inline-block;
+}
+
+.container{
+    text-align: center;
+    align-items: center; 
+}
+.prohead{
+    color: red;
+
+}
+button{
+    margin: 20px;
+}
+button:hover{
+    display: block;
+    background: rgb(139, 147, 154);
+    filter: drop-shadow(0 0 10px #fffdef);
+
+}
+.project{
+    font-size: 25px;
+    padding: 20px;
+}
+.button1{
+    margin-top: 100px;
+}
