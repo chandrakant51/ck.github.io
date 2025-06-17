@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('./css/back.png');
+    background-image: url('./css/xqlgfA.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: black; */
@@ -25,7 +25,7 @@ a{
 .nav-item{
     /* text-decoration: none; */
     margin: 10px 50px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 
 }
 li{
@@ -37,7 +37,9 @@ li{
     align-items: center; 
 }
 .prohead{
-    color: red;
+    display: inline-block;
+    color: white;
+    border-bottom: 2px solid whitesmoke;
 
 }
 button{
@@ -50,7 +52,7 @@ button:hover{
     background: rgb(139, 147, 154);
         border-radius: 20px;
         border:1px solid red;
-        letter-spacing: 1px;
+        letter-spacing: 0.5px;
     
 
 }
@@ -60,4 +62,12 @@ button:hover{
 }
 .button1{
     margin-top: 100px;
+}
+
+.thanks{
+    color: red;
+}
+
+.footer{
+    height: 100px;
 }
