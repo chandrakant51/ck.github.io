@@ -1,73 +1,71 @@
-*{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-}
-body{
-    background-image: url('./css/xqlgfA.jpg');
-  
-    background-size: cover;
-    /* background-color: black; */
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
 }
 
-
-
-.navbar{
-    background-color: aqua;
-    font-size: 30px;
-    text-align: center;
-    border: 1px solid black;
-}
-a{
-    text-decoration: none;
+body {
+  background-image: url("./css/xqlgfA.jpg");
+  background-size: cover;
+  /* background-color: black; */
 }
 
-.nav-item{
-    /* text-decoration: none; */
-    margin: 10px 50px;
-    /* border: 2px solid red; */
-
-}
-li{
-    display: inline-block;
+.navbar {
+  background-color: rgb(179, 207, 207);
+  font-size: 30px;
+  text-align: center;
+  border: 1px solid black;
 }
 
-.container{
-    text-align: center;
-    align-items: center; 
-}
-.prohead{
-    display: inline-block;
-    color: white;
-    border-bottom: 2px solid whitesmoke;
-
-}
-button{
-    margin: 20px;
-
-
-}
-button:hover{
-    
-    background: rgb(139, 147, 154);
-        border-radius: 20px;
-        border:1px solid red;
-        letter-spacing: 0.5px;
-    
-
-}
-.project{
-    font-size: 25px;
-    padding: 20px;
-}
-.button1{
-    margin-top: 100px;
+a {
+  text-decoration: none;
 }
 
-.thanks{
-    color: red;
+.nav-item {
+  /* text-decoration: none; */
+  margin: 10px 50px;
+  /* border: 2px solid red; */
 }
 
-.footer{
-    height: 100px;
+li {
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
+  align-items: center;
+}
+
+.prohead {
+  display: inline-block;
+  color: white;
+  border-bottom: 2px solid antiquewhite;
+}
+
+button {
+  margin: 20px;
+}
+
+button:hover {
+  /* background: rgb(139, 147, 154); */
+  background-color: rgb(178, 149, 149);
+  border-radius: 20px;
+  letter-spacing: 2px;
+}
+
+.project {
+  font-size: 25px;
+  padding: 20px;
+}
+
+.button1 {
+  margin-top: 100px;
+}
+
+.thanks {
+  color: red;
+}
+
+.footer {
+  height: 100px;
 }
