@@ -10,11 +10,16 @@ body {
   /* background-color: black; */
 }
 
+.header{
+  position: fixed;
+  width: 100%;
+}
+
 .navbar {
   background-color: rgb(179, 207, 207);
   font-size: 30px;
   text-align: center;
-  border: 1px solid black;
+  border:1.5px solid red;
 }
 
 a {
@@ -40,6 +45,7 @@ li {
   display: inline-block;
   color: white;
   border-bottom: 2px solid antiquewhite;
+  margin-top: 40px;
 }
 
 button {
