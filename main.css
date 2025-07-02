@@ -10,10 +10,10 @@ body {
   /* background-color: black; */
 }
 
-/* .header{
+.header{
   position: fixed;
   width: 100%;
-} */
+}
 
 .navbar {
   background-color: rgb(179, 207, 207);
