@@ -131,6 +131,8 @@ body {
 /* Right image */
 .image img {
   max-width: 400px;
+  border: 2px solid rgb(56, 72, 144);
   border-radius: 12px;
-  box-shadow: 0 0 30px rgba(255, 255, 255, 0.05);
+  /* box-shadow: 0 0 30px rgba(255, 255, 255, 0.05); */
+  box-shadow: 4px 4px 4px rgba(64, 145, 203, 0.751);
 }
