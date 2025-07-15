@@ -49,10 +49,14 @@ body {
   color: #ccc;
   font-weight: bold;
   transition: color 0.3s ease;
+  padding: 5px;
 }
 
 .nav-links a:hover {
   color: #fff;
+  border-bottom: 2px solid white;
+  border-radius: 5px;
+  /* background-color: rgb(95, 112, 169) ; */
 }
 
 /* Hero section */
