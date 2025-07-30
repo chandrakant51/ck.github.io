@@ -78,24 +78,15 @@ body {
 /* Left content */
 .content {
   flex: 1;
-  max-width: 500px;
+  max-width: 600px;
 }
 
 
-
-
-
-/* Right image */
-.image img {
-  max-width: 400px;
-  border: 2px solid rgb(56, 72, 144);
-  border-radius: 12px;
-  /* box-shadow: 0 0 30px rgba(255, 255, 255, 0.05); */
-  box-shadow: 4px 4px 4px rgba(64, 145, 203, 0.751);
-  transition: 1s;
+.hero .content a{
+  text-decoration: none;
+  text-align: right;
 }
-
-.image img:hover{
-  transform: scale(1.05);
-  transition-duration:0.7s ;
+.hero .content h2{
+  
+  text-align: right;
 }
