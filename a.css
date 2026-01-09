@@ -54,16 +54,16 @@ button {
 
 button:hover {
   /* background: rgb(139, 147, 154); */
-  background-color: rgb(178, 149, 149);
+  background-color: rgb(5, 5, 5);
   border-radius: 20px;
-  letter-spacing: 2px;
+  /* letter-spacing: 2px; */
 }
 
 .project {
   font-size: 25px;
   padding: 20px;
 }
-
+  
 .button1 {
   margin-top: 100px;
 }
